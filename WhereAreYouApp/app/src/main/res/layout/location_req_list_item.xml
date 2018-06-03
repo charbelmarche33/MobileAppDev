@@ -1,0 +1,97 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="@string/from_static"
+            android:id="@+id/for_prompt"
+            android:layout_width="wrap_content"
+            android:paddingLeft="6dp"
+            android:paddingVertical="6dp"
+            android:paddingRight="0dp"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content"  />
+        <TextView
+            android:text="@string/name_placeholder"
+            android:id="@+id/contact_name"
+            android:layout_width="wrap_content"
+            android:padding="6dp"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/for_prompt"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="@string/latitude_is"
+            android:id="@+id/latitude_prompt"
+            android:layout_width="wrap_content"
+            android:paddingLeft="6dp"
+            android:paddingVertical="6dp"
+            android:paddingRight="0dp"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content"  />
+        <TextView
+            android:text="@string/latitude_is"
+            android:id="@+id/latitude"
+            android:layout_width="wrap_content"
+            android:padding="6dp"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/latitude_prompt"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="@string/longitude_is"
+            android:id="@+id/longitude_prompt"
+            android:layout_width="wrap_content"
+            android:paddingLeft="6dp"
+            android:paddingVertical="6dp"
+            android:paddingRight="0dp"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content"  />
+        <TextView
+            android:text="@string/longitude_is"
+            android:id="@+id/longitude"
+            android:layout_width="wrap_content"
+            android:padding="6dp"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/longitude_prompt"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+    <!-- We are doing something that doesnt make sense so I am going to go along with it for now
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/send_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/ignore_requested"
+            android:text="@string/send_location" />
+
+        <Button
+            android:id="@+id/ignore_requested"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/ignore" />
+    </RelativeLayout>
+    -->
+</LinearLayout>

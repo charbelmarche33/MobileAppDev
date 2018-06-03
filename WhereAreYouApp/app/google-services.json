@@ -1,0 +1,326 @@
+{
+  "project_info": {
+    "project_number": "520779275719",
+    "firebase_url": "https://cpsc470amobiledevelopment.firebaseio.com",
+    "project_id": "cpsc470amobiledevelopment",
+    "storage_bucket": "cpsc470amobiledevelopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:be9053b4e373bda7",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.donahue.james.assignmentthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:4c90cda4ebee6bce",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.halo.michael.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:2d61732b2dbc295a",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.herrin.john.whereareyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:71144f0f614a5939",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.kassim.imad.where_are_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:c4acbeda6668a73a",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.marche.charbel.whereareyouapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:3c6280176016931b",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.testpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:91757f06f6453d12",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.testsecondpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:cea6d006308e9124",
+        "android_client_info": {
+          "package_name": "edu.umw.cpsc.vasquez.christopher.whereareyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520779275719:android:5efc026152f19a6f",
+        "android_client_info": {
+          "package_name": "edu.umw.cspc.caish.timmy.whereareyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520779275719-kqjk94n7mekirgrs896ga02cjcje8259.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520779275719-ok2f4cinb7c9em0j91f6ifmi2v08room.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahSoYpWaGLM2yjkv-rw87lZ6FOTR_HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
